@@ -1,4 +1,3 @@
-# Meta_ads-dashboard-using-power-bi
 #  📊Meta Ads Performance Analysis | Power BI Dashboard
 🔍   Project Summary
 This project analyzes Meta (Facebook & Instagram) advertising performance using Power BI to measure campaign effectiveness, user engagement, and conversion efficiency. The dashboard helps marketing teams understand which ad formats, demographics, time periods, and platforms drive better ROI, enabling data-driven budget optimization and targeting decisions.
@@ -47,7 +46,7 @@ The dashboard compares low-volume test campaigns and high-volume production camp
 - <a href= "https://github.com/VaseemaTaslim/Meta_ads-dashboard-using-power-bi/blob/main/Screenshot%202026-01-22%20202924.png">Dashboard Instagram view</a>
 
 -Meta ads about Facebook&Instagram Dashboard performances intracts 
-- <a href= "https://github.com/VaseemaTaslim/Meta_ads-dashboard-using-power-bi/blob/main/project%20meta%20(1).pbix">Dashboard overview</a>
+- <a href= "https://app.powerbi.com/view?r=eyJrIjoiNWU0ZDVhZDAtMTc5MC00N2U5LTllZTctMzg2MTg0ZjIzOTEyIiwidCI6ImQ0YjhhZWE4LWM1NTMtNGQ4MS1hNmY5LWQ5YjIyZjhjN2I1ZiJ9">Dashboard overview</a>
 
 ##  📌 Key KPIs Tracked
 Total Impressions: 123.8K+
