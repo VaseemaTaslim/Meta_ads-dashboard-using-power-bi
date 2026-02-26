@@ -76,9 +76,9 @@ These KPIs provide a complete funnel view from reach → engagement → conversi
 - <a href = "https://github.com/VaseemaTaslim/Meta_ads-dashboard-using-power-bi/blob/main/Screenshot%202026-01-22%20201158.png">Facebook Dashboard</a>
 
 -Instagram Ads Dashboard of Instagram
--<a href ="https://github.com/VaseemaTaslim/Meta_ads-dashboard-using-power-bi/blob/main/Screenshot%202026-01-22%20202924.png">Instagram Dashboard</a>
+- <a href ="https://github.com/VaseemaTaslim/Meta_ads-dashboard-using-power-bi/blob/main/Screenshot%202026-01-22%20202924.png">Instagram Dashboard</a>
 
-##💡 Key Business Insights
+##  💡 Key Business Insights
 🔹 Ad Format Performance
 
 Carousel ads deliver the highest conversion and purchase rate, making them ideal for performance-driven campaigns.
@@ -139,11 +139,27 @@ Gender
 Month
 
 Dynamic Measure Selector (Engagement, Clicks, etc.)
+<img width="1511" height="855" alt="Screenshot 2026-01-22 201158" src="https://github.com/user-attachments/assets/8a0a8111-7c3e-43db-9ee8-90d8269d0d95" />Top KPI Cards in Facebook(impr,clicks,CTR)</a>
+<img width="1495" height="849" alt="Screenshot 2026-01-22 202924" src="https://github.com/user-attachments/assets/43125dc3-75d0-4004-8259-d578f6049cdc" />Weekly/Hourly trends in Instagram</a>
+<img width="1506" height="854" alt="Screenshot 2026-01-22 201742" src="https://github.com/user-attachments/assets/9e83030e-da94-4ed0-9415-16698b648c4f" />Impressions by Gender Facebook(Donut chart)</a>
+<img width="1488" height="847" alt="Screenshot 2026-01-22 211510" src="https://github.com/user-attachments/assets/4db132f7-ecd3-4417-b021-481d50cd5e26" />Impressions by Country Instagram</a>
+<img width="1503" height="849" alt="Screenshot 2026-01-22 201627" src="https://github.com/user-attachments/assets/86053655-4c69-4853-a8f8-46b8cb2eccda" />Impressions by Age Facebook(Bar charts)</a>
+<img width="1489" height="849" alt="Screenshot 2026-01-22 212143" src="https://github.com/user-attachments/assets/f2002d2b-40d8-4ff6-964d-df821bef5bc3" />Montly Impression Instagram</a>
+<img width="1509" height="858" alt="Screenshot 2026-01-22 213405" src="https://github.com/user-attachments/assets/4a574c20-2bb3-42b1-9e96-0d9c94b47a94" />Conversions of KpI's Facebook</a>
+<img width="1491" height="857" alt="Screenshot 2026-01-22 213317" src="https://github.com/user-attachments/assets/21249665-65e8-465c-9625-93c3358db81f" />Analysis of Ad Type(Shows which formate performance better</a>
+<img width="1570" height="897" alt="Screenshot 2026-01-22 191316" src="https://github.com/user-attachments/assets/95e9ebca-d449-4a5a-8798-00949340039d" /></a>
+
+
+
+
+
+
+
 
 
 These slicers allow stakeholders to perform deep-dive analysis without technical dependency.
 
-🛠️ Tools & Techniques Used
+##  🛠️ Tools & Techniques Used
 Power BI Desktop
 
 Power Query for data cleaning and transformation
@@ -170,7 +186,7 @@ Matrix Table
 
 UX Design Principles for clarity and executive readability
 
-📈 Business Value & Conclusion
+##  📈 Business Value & Conclusion
 This Power BI solution enables:
 
 Smarter budget allocation based on ad type performance
@@ -181,5 +197,5 @@ Optimized ad scheduling using time-based trends
 
 Faster decision-making through interactive self-service analytics
 
-✅ Final Outcome:
+##  ✅ Final Outcome:
 The dashboard transforms raw marketing data into actionable insights, helping businesses increase ROI, reduce wasted ad spend, and scale high-performing campaigns effective
